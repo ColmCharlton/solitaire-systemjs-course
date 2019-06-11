@@ -86,6 +86,7 @@ node {
     sh 'docker-compose up -d --build'
     
     notify 'Solitaire Deployed!'
+	
 }
 
 
